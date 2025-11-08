@@ -62,8 +62,8 @@ Open it on your phone’s browser or install it as a PWA (coming soon).
 ## 👨‍💻 Developed by
 
 **Muhammad Waleed Khan**  
-📧 [waleedali36558@gmail.com](mailto:waleedali36558@gmail.com)  
-✨ Passionate Software Engineering Student at COMSATS, Pakistan  
+📧 [waleedali36559@gmail.com](mailto:waleedali36559@gmail.com)  
+✨ Passionate Software Engineering Student at COMSATS UNIVERSITY ISLAMABAD ABBOTTABAD CAMPUS, Pakistan  
 
 ---
 
