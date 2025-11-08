@@ -39,8 +39,7 @@ This project is lightweight, fully responsive, and works directly in the browser
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live website](https://waleedali36558.github.io/smart-todo/)  
-*(Replace with your actual GitHub Pages link once published.)*
+👉 [Click here to view the live website](https://waleed-09.github.io/todo-app/)  
 
 ---
 
@@ -48,14 +47,6 @@ This project is lightweight, fully responsive, and works directly in the browser
 
 This app adapts to all screen sizes — mobile, tablet, and desktop.  
 Open it on your phone’s browser or install it as a PWA (coming soon).
-
----
-
-## 📷 Preview
-
-![App Screenshot](screenshot.png)
-
-*(You can upload a screenshot of your To-Do App and rename it as `screenshot.png` in your repo.)*
 
 ---
 
@@ -70,7 +61,7 @@ Open it on your phone’s browser or install it as a PWA (coming soon).
 
 ## 👨‍💻 Developed by
 
-**Waleed Ali**  
+**Muhammad Waleed Khan**  
 📧 [waleedali36558@gmail.com](mailto:waleedali36558@gmail.com)  
 ✨ Passionate Software Engineering Student at COMSATS, Pakistan  
 
